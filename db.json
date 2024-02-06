@@ -1,8 +1,13 @@
 {
   "users":[
-    {"id" : 1, "name":"marina prieto", "username": "mprieto", "email": "mprieto@hmail.com", "image": "https://www.koi-ti.com/wp-content/uploads/2023/06/cropped-desarrollo-de-software.png"},
+    {"id" : 1, 
+      "name":"marina prieto", 
+      "username": "mprieto", 
+      "email": "mprieto@hmail.com", 
+      "image": "https://www.koi-ti.com/wp-content/uploads/2023/06/cropped-desarrollo-de-software.png"
+    },
     {"id" : 2, "name":"paola jara", "username": "pjara", "email": "pjara@hmail.com", "image": "https://www.koi-ti.com/wp-content/uploads/2023/06/cropped-desarrollo-de-software.png"},
-    {"id" : 3, "name":"yanet triana", "username": "ytriana", "email": "ytriana@hmail.com", "image": "https://www.koi-ti.com/wp-content/uploads/2023/06/cropped-desarrollo-de-software.png"},
+    {"id" : 3, "name":"yanet triana", "username": "ytriana", "email": "ytriana@hmail.com", "image": "https://www.koi-ti.com/wp-content/uploads/2023/06/cropped-desarrollo-de-software.png"}
   ],
   
   "posts": [
