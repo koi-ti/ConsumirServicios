@@ -8,15 +8,21 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Post 1",
+      "body": "cuerpo post1",
+      "userId": 1
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Post 2",
+      "body": "cuerpo post2",
+      "userId": 2
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Post 3",
+      "body": "cuerpo pos3",
+      "userId": 3
     }
   ],
   "comments": [
